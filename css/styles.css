@@ -1,0 +1,171 @@
+.root {--accent-color: #2196F3; }
+
+.link {text-decoration: none;}
+.list {list-style: none;}
+body {font-family: 'Roboto'; color: #212121;}
+/*==============================================COMPONENTS============================================*/
+
+.logo-black {font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #212121; }
+
+    .logo-blue {font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        /* identical to box height */
+        letter-spacing: 0.03em;
+        color: #2196F3 }
+
+    .description {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 171%;
+                
+        letter-spacing: 0.03em;
+        
+        color: #757575;}
+    .section-title {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+        text-align: center;
+        letter-spacing: 0.03em;
+        
+        }
+/*==============================================COMPONENTS============================================*/
+
+/*==============================================HEADER===============================================*/
+.menu-link { font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    
+    cursor: pointer;}
+.menu-link:hover, .menu-link:focus {color: #2196F3}
+
+.contacts-menu-mail-link { font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #2196F3;}
+.contacts-menu-mail-link:hover, .contacts-menu-mail-link:focus {color: #2196F3}
+
+.contacts-menu-tel-link { font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #757575;
+    }
+.contacts-menu-tel-link:hover, .contacts-menu-tel-link:focus {color: #2196F3;}
+/*==============================================HEADER===============================================*/
+
+/*==============================================HERO===============================================*/
+
+.page-header {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 136%;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    
+    /*color: #FFFFFF;*/} 
+
+.modal-button { 
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 188%;
+     
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    
+    color: #FFFFFF;
+    cursor: pointer;}
+/*==============================================HERO===============================================*/
+
+/*=====================================OUR ADVENTAGES SECTIONS ======================================*/
+.our-adventages-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    
+    }
+/*=====================================OUR ADVENTAGES SECTIONS ======================================*/
+
+/*==========================================WHAT WE DO==============================================*/
+
+/*==========================================WHAT WE DO==============================================*/
+
+/*============================================OUR TEAM===============================================*/
+.list-title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 0.84;
+      
+    /*text-align: center;*/
+    letter-spacing: 0.03em;
+    
+    }
+/*============================================OUR TEAM=============================================*/
+
+/*============================================FILTER=============================================*/
+.button-filters {font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 162%;
+      
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #212121;
+    background: #F5F4FA;
+    border-radius: 4px;
+    cursor: pointer;}
+    
+    .button-filters:hover, .button-filters:focus {background-color: #2196F3;}
+/*============================================FILTER=============================================*/
+
+/*==============================================FOOTER===============================================*/
+
+ .section-with-contacs-item {font-family:'Roboto'; 
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    
+    letter-spacing: 0.03em;
+    cursor: pointer; }
+/*==============================================FOOTER===============================================*/
+
+   
+        
+    
+    
